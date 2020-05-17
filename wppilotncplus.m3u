@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="101" tvg-name="TVP 1 HD" tvg-logo="http://epg.ovh/logo/TVP+1.png" group-title="WPpilot", TVP 1 HD
+#EXTINF:0, tvg-id="TVP 1" tvg-name="TVP 1 HD" tvg-logo="http://epg.ovh/logo/TVP+1.png" group-title="WPpilot", TVP 1 HD
 plugin://plugin.video.pilot.wp?action=PLAY&channel=3
-#EXTINF:0, tvg-id="102" tvg-name="TVP 2 HD" tvg-logo="http://epg.ovh/logo/TVP+2.png" group-title="WPpilot", TVP 2 HD
+#EXTINF:0, tvg-id="TVP 2" tvg-name="TVP 2 HD" tvg-logo="http://epg.ovh/logo/TVP+2.png" group-title="WPpilot", TVP 2 HD
 plugin://plugin.video.pilot.wp?action=PLAY&channel=5
-#EXTINF:0, tvg-id="103" tvg-name="TVN" tvg-logo="http://epg.ovh/logo/TVN.png" group-title="WPpilot", TVN
+#EXTINF:0, tvg-id="TVN" tvg-name="TVN" tvg-logo="http://epg.ovh/logo/TVN.png" group-title="WPpilot", TVN
 plugin://plugin.video.pilot.wp?action=PLAY&channel=14
 #EXTINF:0, tvg-id="104" tvg-name="TVN24 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-24-hd/ch-tvn-24-hd-1118.png" group-title="nc+", TVN24 HD
 plugin://plugin.video.ncplusgo/?name=TVN24+HD&moviescount=0&url=tvn-24-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-24-hd%2Fch-tvn-24-hd-1118.png&mode=playNC&page=1
@@ -14,13 +14,13 @@ plugin://plugin.video.ncplusgo/?name=TVN+Style+HD&moviescount=0&url=tvn-style-hd
 plugin://plugin.video.ncplusgo/?name=TVN+Turbo+HD&moviescount=0&url=tvn-turbo-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-turbo-hd%2Fch-tvn-turbo-hd-1119.png&mode=playNC&page=1
 #EXTINF:0, tvg-id="107" tvg-name="HGTV" tvg-logo="http://epg.ovh/logo/HGTV.png" group-title="nc+", HGTV
 plugin://plugin.video.ncplusgo/?name=HGTV&moviescount=0&url=tvn-meteo-active&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-meteo-active%2Fch-tvn-meteo-active-1124.png&mode=playNC&page=1
-#EXTINF:0, tvg-id="108" tvg-name="Polsat" tvg-logo="http://epg.ovh/logo/Polsat.png" group-title="WPpilot", Polsat
+#EXTINF:0, tvg-id="Polsat" tvg-name="Polsat" tvg-logo="http://epg.ovh/logo/Polsat.png" group-title="WPpilot", Polsat
 plugin://plugin.video.pilot.wp?action=PLAY&channel=9
 #EXTINF:0, tvg-id="109" tvg-name="Polsat Cafe HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-cafe/ch-polsat-cafe-1122.png" group-title="nc+", Polsat Cafe HD
 plugin://plugin.video.ncplusgo/?name=Polsat+Cafe+HD&moviescount=0&url=polsat-cafe&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-cafe%2Fch-polsat-cafe-1122.png&mode=playNC&page=1
 #EXTINF:0, tvg-id="110" tvg-name="Polsat Play HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-play/ch-polsat-play-1123.png" group-title="nc+", Polsat Play HD
 plugin://plugin.video.ncplusgo/?name=Polsat+Play+HD&moviescount=0&url=polsat-play&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-play%2Fch-polsat-play-1123.png&mode=playNC&page=1
-#EXTINF:0, tvg-id="111" tvg-name="TV 4" tvg-logo="http://epg.ovh/logo/TV+4.png" group-title="WPpilot", TV 4
+#EXTINF:0, tvg-id="TV 4" tvg-name="TV 4" tvg-logo="http://epg.ovh/logo/TV+4.png" group-title="WPpilot", TV 4
 plugin://plugin.video.pilot.wp?action=PLAY&channel=11
 
 #EXTINF:0, tvg-id="201" tvg-name="National Geo HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-national-geographic-hd/ch-national-geographic-hd-1123.png" group-title="nc+", National Geo HD
